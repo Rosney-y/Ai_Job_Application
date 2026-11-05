@@ -12,6 +12,7 @@ Upload your CV (PDF), paste a job offer, and get:
 - missing skills
 - warning points (what could get your application rejected)
 - an action plan split into three periods: this week, 1-2 months, 3-6 months
+- the output is in french 
 
 ## How it works
 
